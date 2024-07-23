@@ -1,2 +1,1 @@
-print("hello")
-print("kampot province")
+print("hello world")
